@@ -1,4 +1,4 @@
-export type InstanceType = 'main' | 'staging'
+export type InstanceType = 'main' | 'sandbox'
 
 export type Options = {
  version?: string

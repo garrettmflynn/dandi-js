@@ -1,6 +1,6 @@
 const instances = {
     main: `api.dandiarchive.org`,
-    staging:  `api-staging.dandiarchive.org`
+    sandbox:  `api.sandbox.dandiarchive.org`
 }
 
 export default instances
